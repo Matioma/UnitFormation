@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/RTSGameMode.uasset",
+				"D:/Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_RPSController.uasset",
+				"D:/Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_RTSGameMode.uasset",
+				"D:/Documents/Repos/UnitFormation/UnitFormation/Content/TopDown/Maps/TopDownMap.umap",
+				"D:/Documents/Repos/UnitFormation/UnitFormation/Content/__ExternalActors__/TopDown/Maps/TopDownMap/4/JM/X44XFRDRREXGEQX2XXU55Y.uasset",
+				"D:/Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_RTSCamera.uasset",
+				"D:/Documents/Repos/UnitFormation/UnitFormation/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/DV/N80IIULU2EJNKLO7JV9BGZ.uasset",
+				"D:/Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/Edge.uasset"
+			]
+		}
+	]
+}
