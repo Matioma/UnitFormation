@@ -7551,3 +7551,46 @@ LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
 [2023.05.03-16.31.25:874][131]LogSavePackage: Moving '../../../../../Documents/Repos/UnitFormation/UnitFormation/Saved/N80IIULU2EJNKLO7JV9BGZ_Auto33FB634AB428002624D724DAAA37BFAF1.tmp' to '../../../../../Documents/Repos/UnitFormation/UnitFormation/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/DV/N80IIULU2EJNKLO7JV9BGZ_Auto3.uasset'
 [2023.05.03-16.31.25:874][131]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.057
 [2023.05.03-16.31.25:874][131]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.057
+[2023.05.03-16.31.49:403][331]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.03-16.31.49:515][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RTSCamera" FILE="../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_RTSCamera.uasset" SILENT=true
+[2023.05.03-16.31.49:529][331]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_RTSCamera
+[2023.05.03-16.31.49:529][331]LogSavePackage: Moving '../../../../../Documents/Repos/UnitFormation/UnitFormation/Saved/BP_RTSCameraB295A9CE44EDA746E922F7A530AA1A8B.tmp' to '../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_RTSCamera.uasset'
+[2023.05.03-16.31.49:546][331]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 13.6 sec)
+[2023.05.03-16.31.49:552][331]AssetCheck: New page: Asset Save: BP_RTSCamera
+[2023.05.03-16.31.49:552][331]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_RTSCamera.BP_RTSCamera
+[2023.05.03-16.31.57:854][815]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.03-16.31.57:957][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RTSCamera" FILE="../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_RTSCamera.uasset" SILENT=true
+[2023.05.03-16.31.57:972][815]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_RTSCamera
+[2023.05.03-16.31.57:972][815]LogSavePackage: Moving '../../../../../Documents/Repos/UnitFormation/UnitFormation/Saved/BP_RTSCameraF3B4C3684B9E69E3083D4699D8F8A9BC.tmp' to '../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_RTSCamera.uasset'
+[2023.05.03-16.31.57:985][815]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 13.8 sec)
+[2023.05.03-16.31.57:993][815]AssetCheck: New page: Asset Save: BP_RTSCamera
+[2023.05.03-16.31.57:993][815]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_RTSCamera.BP_RTSCamera
+[2023.05.03-16.31.58:632][853]BlueprintLog: New page: Compile BP_RTSCamera
+[2023.05.03-16.31.58:731][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.05.03-16.31.59:118][873]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.03-16.31.59:219][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RTSCamera" FILE="../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_RTSCamera.uasset" SILENT=true
+[2023.05.03-16.31.59:231][873]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_RTSCamera
+[2023.05.03-16.31.59:232][873]LogSavePackage: Moving '../../../../../Documents/Repos/UnitFormation/UnitFormation/Saved/BP_RTSCamera0C0F48BA442EE415E49D42AED47E89BD.tmp' to '../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_RTSCamera.uasset'
+[2023.05.03-16.31.59:247][873]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 13.9 sec)
+[2023.05.03-16.31.59:252][873]AssetCheck: New page: Asset Save: BP_RTSCamera
+[2023.05.03-16.31.59:252][873]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_RTSCamera.BP_RTSCamera
+[2023.05.03-16.32.00:348][939]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.03-16.32.00:451][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RTSCamera" FILE="../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_RTSCamera.uasset" SILENT=true
+[2023.05.03-16.32.00:464][939]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_RTSCamera
+[2023.05.03-16.32.00:464][939]LogSavePackage: Moving '../../../../../Documents/Repos/UnitFormation/UnitFormation/Saved/BP_RTSCamera2B648C8347474CCAEF1E61936694F2D1.tmp' to '../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_RTSCamera.uasset'
+[2023.05.03-16.32.00:480][939]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 14.0 sec)
+[2023.05.03-16.32.00:485][939]AssetCheck: New page: Asset Save: BP_RTSCamera
+[2023.05.03-16.32.00:485][939]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_RTSCamera.BP_RTSCamera
+[2023.05.03-16.32.05:685][244]LogViewport: Scene viewport resized to 1001x567, mode Windowed.
+[2023.05.03-16.32.27:035][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.05.03-16.32.28:440][460]LogSlate: Window 'Save Content' being destroyed
+[2023.05.03-16.32.28:462][460]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.03-16.32.28:583][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RTSCamera" FILE="../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_RTSCamera.uasset" SILENT=true
+[2023.05.03-16.32.28:597][460]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_RTSCamera
+[2023.05.03-16.32.28:597][460]LogSavePackage: Moving '../../../../../Documents/Repos/UnitFormation/UnitFormation/Saved/BP_RTSCameraE5AF9B374B74B38A2983329FB72887D2.tmp' to '../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_RTSCamera.uasset'
+[2023.05.03-16.32.28:599][460]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/DV/N80IIULU2EJNKLO7JV9BGZ
+[2023.05.03-16.32.28:599][460]LogSavePackage: Moving '../../../../../Documents/Repos/UnitFormation/UnitFormation/Saved/N80IIULU2EJNKLO7JV9BGZDD29F7CB4C696487B06446BED25E210A.tmp' to '../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/DV/N80IIULU2EJNKLO7JV9BGZ.uasset'
+[2023.05.03-16.32.28:619][460]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 14.2 sec)
+[2023.05.03-16.32.28:626][460]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.03-16.32.28:626][460]LogContentValidation: Display: Validating /Game/Blueprints/BP_RTSCamera.BP_RTSCamera_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_RTSCamera_C_UAID_3C2C30F8652A137F01_2003389615
+[2023.05.03-16.32.28:626][460]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_RTSCamera.BP_RTSCamera
