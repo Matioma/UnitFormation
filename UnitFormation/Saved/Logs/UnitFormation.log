@@ -7743,3 +7743,125 @@ Script Stack (1 frames) :
 [2023.05.04-14.46.10:777][406]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 25.3 sec)
 [2023.05.04-14.46.10:782][406]AssetCheck: New page: Asset Save: BP_Squad
 [2023.05.04-14.46.10:782][406]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Squad.BP_Squad
+[2023.05.04-14.46.35:482][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.05.04-14.46.35:484][645]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.052
+[2023.05.04-14.46.35:484][645]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_RTSGameMode] ([2] browsable assets)...
+[2023.05.04-14.46.35:484][645]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_RTSGameMode]
+[2023.05.04-14.46.35:487][645]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_RTSGameMode_Auto4
+[2023.05.04-14.46.35:487][645]LogSavePackage: Moving '../../../../../Documents/Repos/UnitFormation/UnitFormation/Saved/BP_RTSGameMode_Auto43BD4FE054BEB36EBF4D5A68C04630552.tmp' to '../../../../../Documents/Repos/UnitFormation/UnitFormation/Saved/Autosaves/Game/Blueprints/BP_RTSGameMode_Auto4.uasset'
+[2023.05.04-14.46.35:488][645]LogFileHelpers: Auto-saving content packages took 0.003
+[2023.05.04-14.46.36:227][683]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.04-14.46.36:233][683]LogContentBundle: [Container: TopDownMap] Generating Streaming for 0 Content Bundles.
+[2023.05.04-14.46.36:235][683]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.04-14.46.36:235][683]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.04-14.46.36:235][683]LogWorldPartition: Display: GetPartitionedActors took 9 us (total: 2 ms)
+[2023.05.04-14.46.36:235][683]LogWorldPartition: Display: GenerateStreaming took 433 us (total: 80 ms)
+[2023.05.04-14.46.36:250][683]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.04-14.46.36:250][683]BlueprintLog: Warning: Blueprint failed to compile:  BP_RPSController
+[2023.05.04-14.46.38:606][683]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.05.04-14.46.38:772][684]LogAutomationController: Ignoring very large delta of 2.56 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.05.04-14.46.47:531][191]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.04-14.46.47:649][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RPSController" FILE="../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_RPSController.uasset" SILENT=true
+[2023.05.04-14.46.47:657][191]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_RPSController
+[2023.05.04-14.46.47:658][191]LogSavePackage: Moving '../../../../../Documents/Repos/UnitFormation/UnitFormation/Saved/BP_RPSController14A0434343B31AC28306A9A350A3B7FF.tmp' to '../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_RPSController.uasset'
+[2023.05.04-14.46.47:673][191]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 25.4 sec)
+[2023.05.04-14.46.47:684][191]AssetCheck: New page: Asset Save: BP_RPSController
+[2023.05.04-14.46.47:684][191]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_RPSController.BP_RPSController
+[2023.05.04-14.46.48:606][246]BlueprintLog: New page: Compile BP_RPSController
+[2023.05.04-14.46.48:678][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.05.04-14.46.48:972][261]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.04-14.46.49:093][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RPSController" FILE="../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_RPSController.uasset" SILENT=true
+[2023.05.04-14.46.49:102][261]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_RPSController
+[2023.05.04-14.46.49:103][261]LogSavePackage: Moving '../../../../../Documents/Repos/UnitFormation/UnitFormation/Saved/BP_RPSController2DD1EA4841745D50839656AEA29881DC.tmp' to '../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_RPSController.uasset'
+[2023.05.04-14.46.49:121][261]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 25.6 sec)
+[2023.05.04-14.46.49:127][261]AssetCheck: New page: Asset Save: BP_RPSController
+[2023.05.04-14.46.49:127][261]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_RPSController.BP_RPSController
+[2023.05.04-14.46.50:003][308]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.04-14.46.50:010][308]LogContentBundle: [Container: TopDownMap] Generating Streaming for 0 Content Bundles.
+[2023.05.04-14.46.50:011][308]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.04-14.46.50:011][308]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.04-14.46.50:011][308]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 2 ms)
+[2023.05.04-14.46.50:012][308]LogWorldPartition: Display: GenerateStreaming took 231 us (total: 80 ms)
+[2023.05.04-14.46.50:012][308]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.04-14.46.50:012][308]PIE: New page: PIE session: TopDownMap (May 4, 2023, 6:46:50 PM)
+[2023.05.04-14.46.50:012][308]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.05.04-14.46.50:018][308]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006315s)
+[2023.05.04-14.46.50:018][308]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.006355s)
+[2023.05.04-14.46.50:019][308]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.04-14.46.50:019][308]LogAIModule: Creating AISystem for world TopDownMap
+[2023.05.04-14.46.50:020][308]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.05.04-14.46.50:020][308]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.04-14.46.50:020][308]LogWorldPartition: UWorldPartition::Initialize(Asset=TopDownMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.05.04-14.46.50:022][308]LogContentBundle: [Container: TopDownMap] Creating new contrainer.
+[2023.05.04-14.46.50:022][308]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 831 ms)
+[2023.05.04-14.46.50:022][308]LogPlayLevel: PIE: World Init took: (0.003384s)
+[2023.05.04-14.46.50:075][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.05.04-14.46.50:077][308]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2023.05.04-14.46.50:077][308]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.04-14.46.50:077][308]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.04-14.46.50:077][308]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.04-14.46.50:077][308]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.04-14.46.50:077][308]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.04-14.46.50:077][308]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.04-14.46.50:077][308]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.04-14.46.50:077][308]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.04-14.46.50:077][308]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.04-14.46.50:077][308]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.04-14.46.50:077][308]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.04-14.46.50:080][308]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.04-14.46.50:102][308]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.05.04-14.46.50:102][308]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.04-14.46.50:103][308]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.04-14.46.50:103][308]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.04-14.46.50:103][308]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2023.05.04-14.46.50:103][308]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2023.05.04-14.46.50:105][308]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2023.05.04-14.46.50:105][308]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2023.05.04-14.46.50:105][308]LogInit: FAudioDevice initialized.
+[2023.05.04-14.46.50:105][308]LogAudio: Display: Audio Device (ID: 35) registered with world 'TopDownMap'.
+[2023.05.04-14.46.50:108][308]LogLoad: Game class is 'BP_RTSGameMode_C'
+[2023.05.04-14.46.50:118][308]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 60) at 2023.05.04-16.46.50
+[2023.05.04-14.46.50:119][308]LogWorld: Bringing up level for play took: 0.011314
+[2023.05.04-14.46.50:122][308]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2023.05.04-14.46.50:123][308]LogWorldPartition: New Streaming Source: BP_RPSController_C_0 -> Position: X=1000.000 Y=1810.000 Z=92.013
+[2023.05.04-14.46.50:123][308]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2023.05.04-14.46.50:123][308]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.05.04-14.46.50:123][308]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.05.04-14.46.50:123][308]PIE: Server logged in
+[2023.05.04-14.46.50:124][308]PIE: Play in editor total start time 0.114 seconds.
+[2023.05.04-14.46.55:503][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.04-14.46.55:503][604]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.05.04-14.46.55:504][604]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-14.46.55:506][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-14.46.55:506][604]LogContentBundle: [Container: TopDownMap] Deleting container.
+[2023.05.04-14.46.55:527][604]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.04-14.46.55:534][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-14.46.55:589][604]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.04-14.46.55:589][604]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2023.05.04-14.46.55:591][604]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2023.05.04-14.46.55:597][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.04-14.46.55:601][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.05.04-14.46.55:640][605]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2023.05.04-14.47.02:148][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.04-14.47.02:251][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RPSController" FILE="../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_RPSController.uasset" SILENT=true
+[2023.05.04-14.47.02:260][981]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_RPSController
+[2023.05.04-14.47.02:260][981]LogSavePackage: Moving '../../../../../Documents/Repos/UnitFormation/UnitFormation/Saved/BP_RPSControllerA831FDDE42AEE5B7FB7952828DDD425F.tmp' to '../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_RPSController.uasset'
+[2023.05.04-14.47.02:276][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 25.7 sec)
+[2023.05.04-14.47.02:282][981]AssetCheck: New page: Asset Save: BP_RPSController
+[2023.05.04-14.47.02:282][981]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_RPSController.BP_RPSController
+[2023.05.04-14.47.03:781][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.05.04-14.47.05:189][ 62]LogSlate: Window 'Save Content' being destroyed
+[2023.05.04-14.47.05:213][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.04-14.47.05:398][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.05.04-14.47.05:448][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.05.04-14.47.05:496][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.04-14.47.05:498][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RTSGameMode" FILE="../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_RTSGameMode.uasset" SILENT=true
+[2023.05.04-14.47.05:500][ 62]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_RTSGameMode
+[2023.05.04-14.47.05:501][ 62]LogSavePackage: Moving '../../../../../Documents/Repos/UnitFormation/UnitFormation/Saved/BP_RTSGameModeEE66FE4446CB6C643712B9AF965499B7.tmp' to '../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_RTSGameMode.uasset'
+[2023.05.04-14.47.05:509][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/Unit_Blackboard" FILE="../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/AI/Unit_Blackboard.uasset" SILENT=true
+[2023.05.04-14.47.05:510][ 62]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/Unit_Blackboard
+[2023.05.04-14.47.05:510][ 62]LogSavePackage: Moving '../../../../../Documents/Repos/UnitFormation/UnitFormation/Saved/Unit_Blackboard574947A34273AB73057D91B5764002B8.tmp' to '../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/AI/Unit_Blackboard.uasset'
+[2023.05.04-14.47.05:525][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave took 312 ms (total: 26.0 sec)
+[2023.05.04-14.47.05:532][ 62]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.04-14.47.05:532][ 62]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_RTSGameMode.BP_RTSGameMode
+[2023.05.04-14.47.05:532][ 62]LogContentValidation: Display: Validating /Script/AIModule.BlackboardData /Game/Blueprints/AI/Unit_Blackboard.Unit_Blackboard
