@@ -5,14 +5,23 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/RTSGameMode.uasset",
 				"D:/Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_RPSController.uasset",
 				"D:/Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_RTSGameMode.uasset",
 				"D:/Documents/Repos/UnitFormation/UnitFormation/Content/TopDown/Maps/TopDownMap.umap",
 				"D:/Documents/Repos/UnitFormation/UnitFormation/Content/__ExternalActors__/TopDown/Maps/TopDownMap/4/JM/X44XFRDRREXGEQX2XXU55Y.uasset",
 				"D:/Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_RTSCamera.uasset",
 				"D:/Documents/Repos/UnitFormation/UnitFormation/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/DV/N80IIULU2EJNKLO7JV9BGZ.uasset",
-				"D:/Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/Edge.uasset"
+				"D:/Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/Edge.uasset",
+				"D:/Documents/Repos/UnitFormation/UnitFormation/Content/TopDown/Blueprints/BP_Unit.uasset",
+				"D:/Documents/Repos/UnitFormation/UnitFormation/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/DS/CVNJ6IMMQ6BUCOZFSLZKZ3.uasset",
+				"D:/Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_Unit.uasset",
+				"D:/Documents/Repos/UnitFormation/UnitFormation/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"D:/Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_UnitController.uasset",
+				"D:/Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/AI/BP_UnitController.uasset",
+				"D:/Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/AI/BT_AiController.uasset",
+				"D:/Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/AI/Unit_Blackboard.uasset",
+				"D:/Documents/Repos/UnitFormation/UnitFormation/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/UT/JRUWL9PVCAH3XSUMXP4CC1.uasset",
+				"D:/Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/RTSGameMode.uasset"
 			]
 		}
 	]
