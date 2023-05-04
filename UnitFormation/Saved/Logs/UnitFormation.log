@@ -7865,3 +7865,476 @@ Script Stack (1 frames) :
 [2023.05.04-14.47.05:532][ 62]AssetCheck: New page: Asset Save: multiple assets
 [2023.05.04-14.47.05:532][ 62]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_RTSGameMode.BP_RTSGameMode
 [2023.05.04-14.47.05:532][ 62]LogContentValidation: Display: Validating /Script/AIModule.BlackboardData /Game/Blueprints/AI/Unit_Blackboard.Unit_Blackboard
+[2023.05.04-14.47.31:139][807]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.04-14.47.31:255][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RPSController" FILE="../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_RPSController.uasset" SILENT=true
+[2023.05.04-14.47.31:265][807]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_RPSController
+[2023.05.04-14.47.31:265][807]LogSavePackage: Moving '../../../../../Documents/Repos/UnitFormation/UnitFormation/Saved/BP_RPSController8D09B2B94995DD70BF910785C4A3CEBB.tmp' to '../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_RPSController.uasset'
+[2023.05.04-14.47.31:280][807]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 26.1 sec)
+[2023.05.04-14.47.31:287][807]AssetCheck: New page: Asset Save: BP_RPSController
+[2023.05.04-14.47.31:287][807]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_RPSController.BP_RPSController
+[2023.05.04-14.48.32:751][476]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.04-14.48.32:879][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Squad" FILE="../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_Squad.uasset" SILENT=true
+[2023.05.04-14.48.32:885][476]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Squad
+[2023.05.04-14.48.32:885][476]LogSavePackage: Moving '../../../../../Documents/Repos/UnitFormation/UnitFormation/Saved/BP_Squad917F1C2C4252680ACD495CB5D1DFAB5A.tmp' to '../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_Squad.uasset'
+[2023.05.04-14.48.32:899][476]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 26.3 sec)
+[2023.05.04-14.48.32:907][476]AssetCheck: New page: Asset Save: BP_Squad
+[2023.05.04-14.48.32:907][476]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Squad.BP_Squad
+[2023.05.04-14.49.10:400][629]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.04-14.49.10:536][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Squad" FILE="../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_Squad.uasset" SILENT=true
+[2023.05.04-14.49.10:542][629]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Squad
+[2023.05.04-14.49.10:543][629]LogSavePackage: Moving '../../../../../Documents/Repos/UnitFormation/UnitFormation/Saved/BP_Squad5E8D4DE74A6FEB5B7068E4B98E3BE3E4.tmp' to '../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_Squad.uasset'
+[2023.05.04-14.49.10:558][629]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 26.4 sec)
+[2023.05.04-14.49.10:568][629]AssetCheck: New page: Asset Save: BP_Squad
+[2023.05.04-14.49.10:568][629]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Squad.BP_Squad
+[2023.05.04-14.49.14:713][854]BlueprintLog: New page: Compile BP_Squad
+[2023.05.04-14.49.14:804][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.05.04-14.51.58:477][758]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.04-14.51.58:603][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Squad" FILE="../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_Squad.uasset" SILENT=true
+[2023.05.04-14.51.58:610][758]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Squad
+[2023.05.04-14.51.58:611][758]LogSavePackage: Moving '../../../../../Documents/Repos/UnitFormation/UnitFormation/Saved/BP_Squad8F023B0746CA71DE8FD89BAF1904EE91.tmp' to '../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_Squad.uasset'
+[2023.05.04-14.51.58:624][758]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 26.6 sec)
+[2023.05.04-14.51.58:637][758]AssetCheck: New page: Asset Save: BP_Squad
+[2023.05.04-14.51.58:637][758]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Squad.BP_Squad
+[2023.05.04-14.51.58:885][773]BlueprintLog: New page: Compile BP_Squad
+[2023.05.04-14.51.58:965][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.05.04-14.53.14:754][146]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.04-14.53.14:884][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Squad" FILE="../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_Squad.uasset" SILENT=true
+[2023.05.04-14.53.14:896][146]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Squad
+[2023.05.04-14.53.14:897][146]LogSavePackage: Moving '../../../../../Documents/Repos/UnitFormation/UnitFormation/Saved/BP_Squad5A5FA95E4471EEF735C7FAB954845C2C.tmp' to '../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_Squad.uasset'
+[2023.05.04-14.53.14:912][146]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 26.8 sec)
+[2023.05.04-14.53.14:919][146]AssetCheck: New page: Asset Save: BP_Squad
+[2023.05.04-14.53.14:919][146]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Squad.BP_Squad
+[2023.05.04-14.53.15:784][198]BlueprintLog: New page: Compile BP_Squad
+[2023.05.04-14.53.15:880][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.05.04-14.53.16:154][212]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.04-14.53.16:285][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Squad" FILE="../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_Squad.uasset" SILENT=true
+[2023.05.04-14.53.16:293][212]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Squad
+[2023.05.04-14.53.16:293][212]LogSavePackage: Moving '../../../../../Documents/Repos/UnitFormation/UnitFormation/Saved/BP_Squad8CF1336C428778CB78273E9B2725677D.tmp' to '../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_Squad.uasset'
+[2023.05.04-14.53.16:308][212]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 26.9 sec)
+[2023.05.04-14.53.16:313][212]AssetCheck: New page: Asset Save: BP_Squad
+[2023.05.04-14.53.16:313][212]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Squad.BP_Squad
+[2023.05.04-14.53.30:609][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.04-14.53.30:736][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Squad" FILE="../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_Squad.uasset" SILENT=true
+[2023.05.04-14.53.30:743][ 47]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Squad
+[2023.05.04-14.53.30:744][ 47]LogSavePackage: Moving '../../../../../Documents/Repos/UnitFormation/UnitFormation/Saved/BP_SquadED496870417FE417947710BC538C98E7.tmp' to '../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_Squad.uasset'
+[2023.05.04-14.53.30:759][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 27.1 sec)
+[2023.05.04-14.53.30:766][ 47]AssetCheck: New page: Asset Save: BP_Squad
+[2023.05.04-14.53.30:766][ 47]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Squad.BP_Squad
+[2023.05.04-14.53.34:790][289]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.04-14.53.34:915][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Squad" FILE="../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_Squad.uasset" SILENT=true
+[2023.05.04-14.53.34:923][289]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Squad
+[2023.05.04-14.53.34:923][289]LogSavePackage: Moving '../../../../../Documents/Repos/UnitFormation/UnitFormation/Saved/BP_Squad0E0A885B4E5689D087C057B54BA19258.tmp' to '../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_Squad.uasset'
+[2023.05.04-14.53.34:937][289]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 27.2 sec)
+[2023.05.04-14.53.34:943][289]AssetCheck: New page: Asset Save: BP_Squad
+[2023.05.04-14.53.34:943][289]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Squad.BP_Squad
+[2023.05.04-14.53.38:049][470]BlueprintLog: New page: Compile BP_Squad
+[2023.05.04-14.53.38:134][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.05.04-14.53.47:573][ 11]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.04-14.53.47:580][ 11]LogContentBundle: [Container: TopDownMap] Generating Streaming for 0 Content Bundles.
+[2023.05.04-14.53.47:581][ 11]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.04-14.53.47:581][ 11]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.04-14.53.47:581][ 11]LogWorldPartition: Display: GetPartitionedActors took 8 us (total: 2 ms)
+[2023.05.04-14.53.47:581][ 11]LogWorldPartition: Display: GenerateStreaming took 317 us (total: 80 ms)
+[2023.05.04-14.53.47:582][ 11]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.04-14.53.47:582][ 11]PIE: New page: PIE session: TopDownMap (May 4, 2023, 6:53:47 PM)
+[2023.05.04-14.53.47:582][ 11]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.05.04-14.53.47:589][ 11]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006895s)
+[2023.05.04-14.53.47:589][ 11]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.006938s)
+[2023.05.04-14.53.47:589][ 11]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.04-14.53.47:590][ 11]LogAIModule: Creating AISystem for world TopDownMap
+[2023.05.04-14.53.47:591][ 11]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.05.04-14.53.47:591][ 11]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.04-14.53.47:591][ 11]LogWorldPartition: UWorldPartition::Initialize(Asset=TopDownMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.05.04-14.53.47:594][ 11]LogContentBundle: [Container: TopDownMap] Creating new contrainer.
+[2023.05.04-14.53.47:594][ 11]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 835 ms)
+[2023.05.04-14.53.47:594][ 11]LogPlayLevel: PIE: World Init took: (0.005572s)
+[2023.05.04-14.53.47:648][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.05.04-14.53.47:649][ 11]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2023.05.04-14.53.47:649][ 11]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.04-14.53.47:649][ 11]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.04-14.53.47:649][ 11]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.04-14.53.47:649][ 11]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.04-14.53.47:649][ 11]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.04-14.53.47:649][ 11]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.04-14.53.47:649][ 11]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.04-14.53.47:649][ 11]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.04-14.53.47:650][ 11]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.04-14.53.47:650][ 11]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.04-14.53.47:650][ 11]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.04-14.53.47:652][ 11]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.04-14.53.47:676][ 11]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.05.04-14.53.47:676][ 11]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.04-14.53.47:676][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.04-14.53.47:677][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.04-14.53.47:678][ 11]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2023.05.04-14.53.47:678][ 11]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2023.05.04-14.53.47:680][ 11]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2023.05.04-14.53.47:680][ 11]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2023.05.04-14.53.47:680][ 11]LogInit: FAudioDevice initialized.
+[2023.05.04-14.53.47:680][ 11]LogAudio: Display: Audio Device (ID: 36) registered with world 'TopDownMap'.
+[2023.05.04-14.53.47:683][ 11]LogLoad: Game class is 'BP_RTSGameMode_C'
+[2023.05.04-14.53.47:696][ 11]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 60) at 2023.05.04-16.53.47
+[2023.05.04-14.53.47:697][ 11]LogWorld: Bringing up level for play took: 0.013975
+[2023.05.04-14.53.47:699][ 11]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2023.05.04-14.53.47:701][ 11]LogWorldPartition: New Streaming Source: BP_RPSController_C_0 -> Position: X=1000.000 Y=1810.000 Z=92.013
+[2023.05.04-14.53.47:701][ 11]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2023.05.04-14.53.47:701][ 11]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.05.04-14.53.47:701][ 11]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.05.04-14.53.47:701][ 11]PIE: Server logged in
+[2023.05.04-14.53.47:702][ 11]PIE: Play in editor total start time 0.122 seconds.
+[2023.05.04-14.53.52:773][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.04-14.53.52:774][289]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.05.04-14.53.52:774][289]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-14.53.52:775][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-14.53.52:775][289]LogContentBundle: [Container: TopDownMap] Deleting container.
+[2023.05.04-14.53.52:779][289]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.04-14.53.52:785][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-14.53.52:836][289]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.04-14.53.52:836][289]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2023.05.04-14.53.52:837][289]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2023.05.04-14.53.52:842][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.04-14.53.52:845][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.05.04-14.53.52:866][290]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2023.05.04-14.53.59:948][695]BlueprintLog: New page: Compile BP_Squad
+[2023.05.04-14.54.00:045][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.05.04-14.54.00:898][727]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.04-14.54.00:904][727]LogContentBundle: [Container: TopDownMap] Generating Streaming for 0 Content Bundles.
+[2023.05.04-14.54.00:905][727]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.04-14.54.00:905][727]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.04-14.54.00:905][727]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 2 ms)
+[2023.05.04-14.54.00:906][727]LogWorldPartition: Display: GenerateStreaming took 226 us (total: 80 ms)
+[2023.05.04-14.54.00:906][727]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.04-14.54.00:906][727]PIE: New page: PIE session: TopDownMap (May 4, 2023, 6:54:00 PM)
+[2023.05.04-14.54.00:906][727]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.05.04-14.54.00:913][727]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007026s)
+[2023.05.04-14.54.00:913][727]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.007059s)
+[2023.05.04-14.54.00:913][727]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.04-14.54.00:914][727]LogAIModule: Creating AISystem for world TopDownMap
+[2023.05.04-14.54.00:914][727]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.05.04-14.54.00:914][727]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.04-14.54.00:914][727]LogWorldPartition: UWorldPartition::Initialize(Asset=TopDownMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.05.04-14.54.00:916][727]LogContentBundle: [Container: TopDownMap] Creating new contrainer.
+[2023.05.04-14.54.00:916][727]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 836 ms)
+[2023.05.04-14.54.00:916][727]LogPlayLevel: PIE: World Init took: (0.002572s)
+[2023.05.04-14.54.00:968][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.05.04-14.54.00:969][727]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2023.05.04-14.54.00:969][727]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.04-14.54.00:969][727]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.04-14.54.00:969][727]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.04-14.54.00:969][727]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.04-14.54.00:970][727]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.04-14.54.00:970][727]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.04-14.54.00:970][727]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.04-14.54.00:970][727]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.04-14.54.00:970][727]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.04-14.54.00:970][727]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.04-14.54.00:970][727]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.04-14.54.00:972][727]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.04-14.54.00:994][727]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.05.04-14.54.00:994][727]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.04-14.54.00:994][727]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.04-14.54.00:994][727]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.04-14.54.00:996][727]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2023.05.04-14.54.00:996][727]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2023.05.04-14.54.00:998][727]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2023.05.04-14.54.00:998][727]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2023.05.04-14.54.00:998][727]LogInit: FAudioDevice initialized.
+[2023.05.04-14.54.00:998][727]LogAudio: Display: Audio Device (ID: 37) registered with world 'TopDownMap'.
+[2023.05.04-14.54.01:002][727]LogLoad: Game class is 'BP_RTSGameMode_C'
+[2023.05.04-14.54.01:013][727]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 60) at 2023.05.04-16.54.01
+[2023.05.04-14.54.01:014][727]LogWorld: Bringing up level for play took: 0.011356
+[2023.05.04-14.54.01:016][727]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2023.05.04-14.54.01:017][727]LogWorldPartition: New Streaming Source: BP_RPSController_C_0 -> Position: X=1000.000 Y=1810.000 Z=92.013
+[2023.05.04-14.54.01:017][727]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2023.05.04-14.54.01:017][727]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.05.04-14.54.01:017][727]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.05.04-14.54.01:017][727]PIE: Server logged in
+[2023.05.04-14.54.01:018][727]PIE: Play in editor total start time 0.114 seconds.
+[2023.05.04-14.54.16:214][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.04-14.54.16:214][570]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.05.04-14.54.16:214][570]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-14.54.16:215][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-14.54.16:215][570]LogContentBundle: [Container: TopDownMap] Deleting container.
+[2023.05.04-14.54.16:219][570]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.04-14.54.16:224][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-14.54.16:281][570]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.04-14.54.16:281][570]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2023.05.04-14.54.16:283][570]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2023.05.04-14.54.16:288][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.04-14.54.16:291][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.05.04-14.54.16:317][571]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2023.05.04-14.54.17:629][642]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.04-14.54.17:748][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Squad" FILE="../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_Squad.uasset" SILENT=true
+[2023.05.04-14.54.17:757][642]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Squad
+[2023.05.04-14.54.17:758][642]LogSavePackage: Moving '../../../../../Documents/Repos/UnitFormation/UnitFormation/Saved/BP_SquadB79FE32348D0DCCE9A03B2B1E553A6B3.tmp' to '../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_Squad.uasset'
+[2023.05.04-14.54.17:777][642]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 27.4 sec)
+[2023.05.04-14.54.17:781][642]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.04-14.54.17:917][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Squad" FILE="../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_Squad.uasset" SILENT=true
+[2023.05.04-14.54.17:927][642]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Squad
+[2023.05.04-14.54.17:928][642]LogSavePackage: Moving '../../../../../Documents/Repos/UnitFormation/UnitFormation/Saved/BP_Squad0D9CB78D49335B21D65874A26D1FE5F6.tmp' to '../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_Squad.uasset'
+[2023.05.04-14.54.17:944][642]LogFileHelpers: InternalPromptForCheckoutAndSave took 163 ms (total: 27.5 sec)
+[2023.05.04-14.54.17:950][642]AssetCheck: New page: Asset Save: BP_Squad
+[2023.05.04-14.54.17:951][642]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Squad.BP_Squad
+[2023.05.04-14.54.20:548][795]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.04-14.54.20:673][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Squad" FILE="../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_Squad.uasset" SILENT=true
+[2023.05.04-14.54.20:681][795]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Squad
+[2023.05.04-14.54.20:681][795]LogSavePackage: Moving '../../../../../Documents/Repos/UnitFormation/UnitFormation/Saved/BP_Squad28C5E0294FB645065E88259446337713.tmp' to '../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_Squad.uasset'
+[2023.05.04-14.54.20:698][795]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 27.7 sec)
+[2023.05.04-14.54.20:706][795]AssetCheck: New page: Asset Save: BP_Squad
+[2023.05.04-14.54.20:706][795]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Squad.BP_Squad
+[2023.05.04-14.54.21:281][827]BlueprintLog: New page: Compile BP_Squad
+[2023.05.04-14.54.21:366][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.05.04-14.54.22:685][892]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.04-14.54.22:692][892]LogContentBundle: [Container: TopDownMap] Generating Streaming for 0 Content Bundles.
+[2023.05.04-14.54.22:695][892]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.04-14.54.22:695][892]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.04-14.54.22:695][892]LogWorldPartition: Display: GetPartitionedActors took 33 us (total: 2 ms)
+[2023.05.04-14.54.22:696][892]LogWorldPartition: Display: GenerateStreaming took 872 us (total: 81 ms)
+[2023.05.04-14.54.22:696][892]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.04-14.54.22:697][892]PIE: New page: PIE session: TopDownMap (May 4, 2023, 6:54:22 PM)
+[2023.05.04-14.54.22:697][892]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.05.04-14.54.22:707][892]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010219s)
+[2023.05.04-14.54.22:707][892]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.010278s)
+[2023.05.04-14.54.22:707][892]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.04-14.54.22:708][892]LogAIModule: Creating AISystem for world TopDownMap
+[2023.05.04-14.54.22:709][892]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.05.04-14.54.22:709][892]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.04-14.54.22:709][892]LogWorldPartition: UWorldPartition::Initialize(Asset=TopDownMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.05.04-14.54.22:711][892]LogContentBundle: [Container: TopDownMap] Creating new contrainer.
+[2023.05.04-14.54.22:711][892]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 838 ms)
+[2023.05.04-14.54.22:712][892]LogPlayLevel: PIE: World Init took: (0.004349s)
+[2023.05.04-14.54.22:771][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.05.04-14.54.22:773][892]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2023.05.04-14.54.22:773][892]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.04-14.54.22:773][892]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.04-14.54.22:773][892]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.04-14.54.22:773][892]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.04-14.54.22:773][892]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.04-14.54.22:773][892]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.04-14.54.22:773][892]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.04-14.54.22:773][892]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.04-14.54.22:774][892]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.04-14.54.22:774][892]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.04-14.54.22:774][892]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.04-14.54.22:776][892]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.04-14.54.22:798][892]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.05.04-14.54.22:798][892]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.04-14.54.22:798][892]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.04-14.54.22:798][892]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.04-14.54.22:799][892]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2023.05.04-14.54.22:799][892]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2023.05.04-14.54.22:801][892]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2023.05.04-14.54.22:801][892]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2023.05.04-14.54.22:801][892]LogInit: FAudioDevice initialized.
+[2023.05.04-14.54.22:801][892]LogAudio: Display: Audio Device (ID: 38) registered with world 'TopDownMap'.
+[2023.05.04-14.54.22:804][892]LogLoad: Game class is 'BP_RTSGameMode_C'
+[2023.05.04-14.54.22:814][892]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 60) at 2023.05.04-16.54.22
+[2023.05.04-14.54.22:815][892]LogWorld: Bringing up level for play took: 0.011345
+[2023.05.04-14.54.22:817][892]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2023.05.04-14.54.22:818][892]LogWorldPartition: New Streaming Source: BP_RPSController_C_0 -> Position: X=1000.000 Y=1810.000 Z=92.013
+[2023.05.04-14.54.22:819][892]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2023.05.04-14.54.22:819][892]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.05.04-14.54.22:819][892]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.05.04-14.54.22:819][892]PIE: Server logged in
+[2023.05.04-14.54.22:820][892]PIE: Play in editor total start time 0.128 seconds.
+[2023.05.04-14.54.27:223][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.04-14.54.27:224][129]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.05.04-14.54.27:225][129]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-14.54.27:226][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-14.54.27:226][129]LogContentBundle: [Container: TopDownMap] Deleting container.
+[2023.05.04-14.54.27:245][129]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.04-14.54.27:250][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-14.54.27:302][129]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.04-14.54.27:303][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2023.05.04-14.54.27:304][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2023.05.04-14.54.27:308][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.04-14.54.27:311][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.05.04-14.54.27:333][130]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2023.05.04-14.56.35:236][394]BlueprintLog: New page: Collapse to Function
+[2023.05.04-14.57.36:696][910]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.04-14.57.36:812][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Squad" FILE="../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_Squad.uasset" SILENT=true
+[2023.05.04-14.57.36:820][910]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Squad
+[2023.05.04-14.57.36:821][910]LogSavePackage: Moving '../../../../../Documents/Repos/UnitFormation/UnitFormation/Saved/BP_Squad2F9E0E584A20F1F3D6DED8B2F8056559.tmp' to '../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_Squad.uasset'
+[2023.05.04-14.57.36:836][910]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 27.8 sec)
+[2023.05.04-14.57.36:843][910]AssetCheck: New page: Asset Save: BP_Squad
+[2023.05.04-14.57.36:843][910]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Squad.BP_Squad
+[2023.05.04-14.57.37:105][926]BlueprintLog: New page: Compile BP_Squad
+[2023.05.04-14.57.37:196][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.05.04-14.57.39:876][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.04-14.57.39:990][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Squad" FILE="../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_Squad.uasset" SILENT=true
+[2023.05.04-14.57.39:999][ 85]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Squad
+[2023.05.04-14.57.40:000][ 85]LogSavePackage: Moving '../../../../../Documents/Repos/UnitFormation/UnitFormation/Saved/BP_Squad0AB3275B4CF41F3B29F9EAAA00DC99B0.tmp' to '../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_Squad.uasset'
+[2023.05.04-14.57.40:013][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 27.9 sec)
+[2023.05.04-14.57.40:020][ 85]AssetCheck: New page: Asset Save: BP_Squad
+[2023.05.04-14.57.40:020][ 85]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Squad.BP_Squad
+[2023.05.04-14.58.11:031][882]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.04-14.58.11:152][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Squad" FILE="../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_Squad.uasset" SILENT=true
+[2023.05.04-14.58.11:161][882]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Squad
+[2023.05.04-14.58.11:161][882]LogSavePackage: Moving '../../../../../Documents/Repos/UnitFormation/UnitFormation/Saved/BP_Squad5504BD54400D42304BF1FFBA8C132220.tmp' to '../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_Squad.uasset'
+[2023.05.04-14.58.11:175][882]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 28.1 sec)
+[2023.05.04-14.58.11:180][882]AssetCheck: New page: Asset Save: BP_Squad
+[2023.05.04-14.58.11:180][882]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Squad.BP_Squad
+[2023.05.04-14.58.29:368][927]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.04-14.58.29:488][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Squad" FILE="../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_Squad.uasset" SILENT=true
+[2023.05.04-14.58.29:498][927]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Squad
+[2023.05.04-14.58.29:498][927]LogSavePackage: Moving '../../../../../Documents/Repos/UnitFormation/UnitFormation/Saved/BP_SquadEB2921984604B7896C103396C6A9E46A.tmp' to '../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_Squad.uasset'
+[2023.05.04-14.58.29:512][927]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 28.2 sec)
+[2023.05.04-14.58.29:517][927]AssetCheck: New page: Asset Save: BP_Squad
+[2023.05.04-14.58.29:517][927]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Squad.BP_Squad
+[2023.05.04-14.58.30:161][966]BlueprintLog: New page: Compile BP_Squad
+[2023.05.04-14.58.30:236][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.05.04-14.58.31:246][  8]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.04-14.58.31:252][  8]LogContentBundle: [Container: TopDownMap] Generating Streaming for 0 Content Bundles.
+[2023.05.04-14.58.31:253][  8]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.04-14.58.31:253][  8]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.04-14.58.31:253][  8]LogWorldPartition: Display: GetPartitionedActors took 8 us (total: 2 ms)
+[2023.05.04-14.58.31:253][  8]LogWorldPartition: Display: GenerateStreaming took 227 us (total: 82 ms)
+[2023.05.04-14.58.31:254][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.04-14.58.31:254][  8]PIE: New page: PIE session: TopDownMap (May 4, 2023, 6:58:31 PM)
+[2023.05.04-14.58.31:254][  8]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.05.04-14.58.31:261][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007612s)
+[2023.05.04-14.58.31:261][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.007664s)
+[2023.05.04-14.58.31:262][  8]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.04-14.58.31:262][  8]LogAIModule: Creating AISystem for world TopDownMap
+[2023.05.04-14.58.31:263][  8]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.05.04-14.58.31:263][  8]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.04-14.58.31:263][  8]LogWorldPartition: UWorldPartition::Initialize(Asset=TopDownMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.05.04-14.58.31:265][  8]LogContentBundle: [Container: TopDownMap] Creating new contrainer.
+[2023.05.04-14.58.31:265][  8]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 840 ms)
+[2023.05.04-14.58.31:265][  8]LogPlayLevel: PIE: World Init took: (0.004037s)
+[2023.05.04-14.58.31:316][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.05.04-14.58.31:318][  8]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2023.05.04-14.58.31:318][  8]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.04-14.58.31:318][  8]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.04-14.58.31:318][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.04-14.58.31:318][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.04-14.58.31:318][  8]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.04-14.58.31:318][  8]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.04-14.58.31:318][  8]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.04-14.58.31:318][  8]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.04-14.58.31:319][  8]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.04-14.58.31:319][  8]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.04-14.58.31:319][  8]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.04-14.58.31:321][  8]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.04-14.58.31:344][  8]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.05.04-14.58.31:345][  8]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.04-14.58.31:345][  8]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.04-14.58.31:345][  8]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.04-14.58.31:346][  8]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2023.05.04-14.58.31:346][  8]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2023.05.04-14.58.31:348][  8]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2023.05.04-14.58.31:348][  8]LogInit: FAudioDevice initialized.
+[2023.05.04-14.58.31:348][  8]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2023.05.04-14.58.31:348][  8]LogAudio: Display: Audio Device (ID: 39) registered with world 'TopDownMap'.
+[2023.05.04-14.58.31:351][  8]LogLoad: Game class is 'BP_RTSGameMode_C'
+[2023.05.04-14.58.31:363][  8]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 60) at 2023.05.04-16.58.31
+[2023.05.04-14.58.31:364][  8]LogWorld: Bringing up level for play took: 0.013555
+[2023.05.04-14.58.31:367][  8]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2023.05.04-14.58.31:368][  8]LogWorldPartition: New Streaming Source: BP_RPSController_C_0 -> Position: X=1000.000 Y=1810.000 Z=92.013
+[2023.05.04-14.58.31:368][  8]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2023.05.04-14.58.31:368][  8]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.05.04-14.58.31:368][  8]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.05.04-14.58.31:368][  8]PIE: Server logged in
+[2023.05.04-14.58.31:369][  8]PIE: Play in editor total start time 0.117 seconds.
+[2023.05.04-14.58.36:683][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.04-14.58.36:683][302]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.05.04-14.58.36:683][302]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-14.58.36:684][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-14.58.36:684][302]LogContentBundle: [Container: TopDownMap] Deleting container.
+[2023.05.04-14.58.36:695][302]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.04-14.58.36:702][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-14.58.36:755][302]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.04-14.58.36:756][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2023.05.04-14.58.36:758][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2023.05.04-14.58.36:763][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.04-14.58.36:767][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.05.04-14.58.36:790][303]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2023.05.04-14.58.52:793][208]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.04-14.58.52:913][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Squad" FILE="../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_Squad.uasset" SILENT=true
+[2023.05.04-14.58.52:921][208]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Squad
+[2023.05.04-14.58.52:922][208]LogSavePackage: Moving '../../../../../Documents/Repos/UnitFormation/UnitFormation/Saved/BP_Squad004FFA3E4E8B689FE739E6BA2AB169A8.tmp' to '../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_Squad.uasset'
+[2023.05.04-14.58.52:936][208]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 28.4 sec)
+[2023.05.04-14.58.52:942][208]AssetCheck: New page: Asset Save: BP_Squad
+[2023.05.04-14.58.52:942][208]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Squad.BP_Squad
+[2023.05.04-14.59.02:905][802]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.04-14.59.03:005][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RPSController" FILE="../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_RPSController.uasset" SILENT=true
+[2023.05.04-14.59.03:013][802]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_RPSController
+[2023.05.04-14.59.03:014][802]LogSavePackage: Moving '../../../../../Documents/Repos/UnitFormation/UnitFormation/Saved/BP_RPSControllerC4678BFE4585B91FDE3EE9A2BEDBD85D.tmp' to '../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_RPSController.uasset'
+[2023.05.04-14.59.03:029][802]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 28.5 sec)
+[2023.05.04-14.59.03:036][802]AssetCheck: New page: Asset Save: BP_RPSController
+[2023.05.04-14.59.03:036][802]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_RPSController.BP_RPSController
+[2023.05.04-14.59.05:549][950]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.04-14.59.05:652][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RPSController" FILE="../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_RPSController.uasset" SILENT=true
+[2023.05.04-14.59.05:661][950]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_RPSController
+[2023.05.04-14.59.05:662][950]LogSavePackage: Moving '../../../../../Documents/Repos/UnitFormation/UnitFormation/Saved/BP_RPSController5DA8898E451A1C61193068A91254BC7E.tmp' to '../../../../../Documents/Repos/UnitFormation/UnitFormation/Content/Blueprints/BP_RPSController.uasset'
+[2023.05.04-14.59.05:677][950]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 28.6 sec)
+[2023.05.04-14.59.05:683][950]AssetCheck: New page: Asset Save: BP_RPSController
+[2023.05.04-14.59.05:683][950]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_RPSController.BP_RPSController
+[2023.05.04-14.59.07:449][ 56]BlueprintLog: New page: Compile BP_Squad
+[2023.05.04-14.59.07:534][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.05.04-14.59.08:512][103]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.04-14.59.08:518][103]LogContentBundle: [Container: TopDownMap] Generating Streaming for 0 Content Bundles.
+[2023.05.04-14.59.08:519][103]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.04-14.59.08:519][103]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.04-14.59.08:519][103]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 2 ms)
+[2023.05.04-14.59.08:520][103]LogWorldPartition: Display: GenerateStreaming took 220 us (total: 82 ms)
+[2023.05.04-14.59.08:520][103]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.04-14.59.08:520][103]PIE: New page: PIE session: TopDownMap (May 4, 2023, 6:59:08 PM)
+[2023.05.04-14.59.08:520][103]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.05.04-14.59.08:528][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008486s)
+[2023.05.04-14.59.08:529][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.008518s)
+[2023.05.04-14.59.08:529][103]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.04-14.59.08:529][103]LogAIModule: Creating AISystem for world TopDownMap
+[2023.05.04-14.59.08:530][103]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.05.04-14.59.08:530][103]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.04-14.59.08:530][103]LogWorldPartition: UWorldPartition::Initialize(Asset=TopDownMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.05.04-14.59.08:531][103]LogContentBundle: [Container: TopDownMap] Creating new contrainer.
+[2023.05.04-14.59.08:532][103]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 842 ms)
+[2023.05.04-14.59.08:532][103]LogPlayLevel: PIE: World Init took: (0.003127s)
+[2023.05.04-14.59.08:582][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.05.04-14.59.08:584][103]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2023.05.04-14.59.08:584][103]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.04-14.59.08:584][103]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.04-14.59.08:584][103]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.04-14.59.08:584][103]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.04-14.59.08:584][103]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.04-14.59.08:584][103]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.04-14.59.08:584][103]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.04-14.59.08:584][103]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.04-14.59.08:585][103]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.04-14.59.08:585][103]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.04-14.59.08:585][103]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.04-14.59.08:587][103]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.04-14.59.08:608][103]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.05.04-14.59.08:609][103]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.04-14.59.08:609][103]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.04-14.59.08:609][103]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.04-14.59.08:610][103]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2023.05.04-14.59.08:610][103]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2023.05.04-14.59.08:611][103]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2023.05.04-14.59.08:611][103]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2023.05.04-14.59.08:611][103]LogInit: FAudioDevice initialized.
+[2023.05.04-14.59.08:611][103]LogAudio: Display: Audio Device (ID: 40) registered with world 'TopDownMap'.
+[2023.05.04-14.59.08:614][103]LogLoad: Game class is 'BP_RTSGameMode_C'
+[2023.05.04-14.59.08:624][103]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 60) at 2023.05.04-16.59.08
+[2023.05.04-14.59.08:625][103]LogWorld: Bringing up level for play took: 0.010547
+[2023.05.04-14.59.08:628][103]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2023.05.04-14.59.08:629][103]LogWorldPartition: New Streaming Source: BP_RPSController_C_0 -> Position: X=1000.000 Y=1810.000 Z=92.013
+[2023.05.04-14.59.08:630][103]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2023.05.04-14.59.08:630][103]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.05.04-14.59.08:630][103]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.05.04-14.59.08:630][103]PIE: Server logged in
+[2023.05.04-14.59.08:631][103]PIE: Play in editor total start time 0.113 seconds.
+[2023.05.04-15.00.08:443][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.04-15.00.08:444][497]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.05.04-15.00.08:444][497]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.04-15.00.08:445][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-15.00.08:445][497]LogContentBundle: [Container: TopDownMap] Deleting container.
+[2023.05.04-15.00.08:463][497]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.04-15.00.08:469][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.04-15.00.08:522][497]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.04-15.00.08:522][497]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2023.05.04-15.00.08:524][497]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2023.05.04-15.00.08:531][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.04-15.00.08:536][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.05.04-15.00.08:558][498]LogPlayLevel: Display: Destroying online subsystem :Context_56
